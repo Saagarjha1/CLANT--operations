@@ -4,7 +4,7 @@
 
 ## Overview
 
-CLANT Operations is a collection of C functions for performing various operations on CLANTs. CLANTs, in this context, refer to a specific data representation that the functions manipulate. This repository includes functions for comparison, addition, subtraction, multiplication, and generating Fibonacci sequences using CLANTs.
+CLANT Operations is a collection of C functions for performing various operations on CLANTs. CLANTs, in this context, stand for "C Large Arbitrary Number Type," representing a custom data type for handling large arbitrary numbers. This repository includes functions for comparison, addition, subtraction, multiplication, and generating Fibonacci sequences using CLANTs.
 
 ## Table of Contents
 
